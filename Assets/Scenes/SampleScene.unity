@@ -242,7 +242,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vitesseDeplacement: 200
   rb: {fileID: 258296178}
-  RotateSpeed: 30
+  vitesse: 0.5
 --- !u!61 &258296180
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -592,6 +592,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 206a586e8ead00745a065f608c6b042c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fusee: {fileID: 258296175}
   planete: {fileID: 5753739446336248462, guid: 297fff4f269c9384c9958ca4865852b0, type: 3}
   etoile: {fileID: 8184448556373035461, guid: 55068355b1aa1bb4c84544f5b3a5b469, type: 3}
   listeAstres: []
