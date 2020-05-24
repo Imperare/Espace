@@ -12,3 +12,4 @@ public class CameraCentree : MonoBehaviour
         transform.position = Vector3.SmoothDamp(transform.position, fusee.transform.position + posOffset, ref velocite, timeOffset);
     }
 }
+ 

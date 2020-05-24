@@ -22,12 +22,12 @@ public class FuseeDeplacements : MonoBehaviour
         if (col.gameObject.tag == "Planete")
         {
             Debug.Log("Planete");
-            transform.Rotate(Vector3.forward * Random.Range(-300, 300));
+            transform.Rotate(Vector3.forward * Random.Range(-360, 360));
         }
         else if (col.gameObject.tag == "Etoile")
         {
             Debug.Log("Etoile");
-            transform.Rotate(Vector3.forward * Random.Range(-300, 300));
+            transform.Rotate(Vector3.forward * Random.Range(-360, 360));
         }
     }
 

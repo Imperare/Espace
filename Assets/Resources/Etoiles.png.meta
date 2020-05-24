@@ -4,16 +4,16 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -8196318648197427377
-    second: Etoiles_0
+    second: Etoiles_00
   - first:
       213: -5182961544177637563
-    second: Etoiles_1
+    second: Etoiles_01
   - first:
       213: -5250673405789624621
-    second: Etoiles_2
+    second: Etoiles_02
   - first:
       213: -481057412174112091
-    second: Etoiles_3
+    second: Etoiles_03
   - first:
       213: -6715464349300495082
     second: Etoiles_4
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Etoiles_0
+      name: Etoiles_00
       rect:
         serializedVersion: 2
         x: 0
@@ -131,7 +131,7 @@ TextureImporter:
         width: 135
         height: 135
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -144,7 +144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Etoiles_1
+      name: Etoiles_01
       rect:
         serializedVersion: 2
         x: 135
@@ -152,7 +152,7 @@ TextureImporter:
         width: 135
         height: 135
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,7 +165,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Etoiles_2
+      name: Etoiles_02
       rect:
         serializedVersion: 2
         x: 270
@@ -173,7 +173,7 @@ TextureImporter:
         width: 135
         height: 135
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,7 +186,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Etoiles_3
+      name: Etoiles_03
       rect:
         serializedVersion: 2
         x: 405
@@ -194,7 +194,7 @@ TextureImporter:
         width: 135
         height: 135
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
